@@ -1,0 +1,3 @@
+superusers:
+  - admin
+enable_sasl: true
